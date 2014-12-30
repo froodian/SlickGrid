@@ -1,5 +1,5 @@
 /***
- * This plugin has been MODIFIED BY APPBOY to support some SIGNIFICANT BEHAVIORAL DIFFERENCES from the original example
+ * This plugin has been modified to support some SIGNIFICANT BEHAVIORAL DIFFERENCES from the original example
  * at http://mleibman.github.io/SlickGrid/examples/example-checkbox-row-select.html
  *
  *   * Clicking an unchecked header causes only the visible rows (instead of all rows) to be selected.  This is
